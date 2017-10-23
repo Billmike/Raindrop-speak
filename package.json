@@ -1,0 +1,23 @@
+{
+  "name": "Raindrop-speak",
+  "version": "1.0.0",
+  "description": "A simple JS function that takes in a number and returns a raindrop sound.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Billmike/Raindrop-speak.git"
+  },
+  "keywords": [],
+  "author": "Bill Michael <billmike1994@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Billmike/Raindrop-speak/issues"
+  },
+  "homepage": "https://github.com/Billmike/Raindrop-speak#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
